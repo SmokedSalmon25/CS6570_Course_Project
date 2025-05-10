@@ -34,7 +34,7 @@ Each script carries out the full attack pipeline for its respective case.
 
 We used a Python notebook `Model_Train.ipynb` to generate and save neural network models for testing. You can modify or extend this notebook to create new models for experimentation.
 
-## Saved Models
+## Simulated Models
 
 The directory includes models trained with different activation functions:
 
